@@ -1,0 +1,29 @@
+0000000000000000000000000000000000000000 9fad59e631b9d6a8a071f424cbd63c664b2afcf0 Thivyatharshni <thivyatharshnisozhan@gmail.com> 1769592884 +0530	commit (initial): Initial frontend setup
+9fad59e631b9d6a8a071f424cbd63c664b2afcf0 0000000000000000000000000000000000000000 Thivyatharshni <thivyatharshnisozhan@gmail.com> 1769592947 +0530	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 9fad59e631b9d6a8a071f424cbd63c664b2afcf0 Thivyatharshni <thivyatharshnisozhan@gmail.com> 1769592947 +0530	Branch: renamed refs/heads/master to refs/heads/main
+9fad59e631b9d6a8a071f424cbd63c664b2afcf0 0000000000000000000000000000000000000000 Thivyatharshni <thivyatharshnisozhan@gmail.com> 1769592972 +0530	Branch: renamed refs/heads/main to refs/heads/main
+9fad59e631b9d6a8a071f424cbd63c664b2afcf0 9fad59e631b9d6a8a071f424cbd63c664b2afcf0 Thivyatharshni <thivyatharshnisozhan@gmail.com> 1769592972 +0530	Branch: renamed refs/heads/main to refs/heads/main
+9fad59e631b9d6a8a071f424cbd63c664b2afcf0 de8ec0f75f38cf008bfd99f9e6fbe1b2812ac34b Thivyatharshni <thivyatharshnisozhan@gmail.com> 1769593503 +0530	commit: backend url modified
+de8ec0f75f38cf008bfd99f9e6fbe1b2812ac34b b132a14ecc770deb0e18c95ab9835d1e79fb75be Thivyatharshni <thivyatharshnisozhan@gmail.com> 1769595492 +0530	commit: auth login change
+b132a14ecc770deb0e18c95ab9835d1e79fb75be 2f7707ec8b2eda61fb06d96f76f184423b87e715 Thivyatharshni <thivyatharshnisozhan@gmail.com> 1769596230 +0530	commit: login
+2f7707ec8b2eda61fb06d96f76f184423b87e715 762156e76d8a6896ccffe21420d459de05ca3cc7 Thivyatharshni <thivyatharshnisozhan@gmail.com> 1769597146 +0530	commit: changes
+762156e76d8a6896ccffe21420d459de05ca3cc7 31e5a291fb5247de2b6e45c5c07c7f0ccafdd640 Thivyatharshni <thivyatharshnisozhan@gmail.com> 1769597883 +0530	commit: changes in api
+31e5a291fb5247de2b6e45c5c07c7f0ccafdd640 d967bd1cc4cd4aac198423d8253aad417faa35cf Thivyatharshni <thivyatharshnisozhan@gmail.com> 1769598676 +0530	commit: changes
+d967bd1cc4cd4aac198423d8253aad417faa35cf 48dfc6b86c50a44ec4384071f03362420aa092c8 Thivyatharshni <thivyatharshnisozhan@gmail.com> 1769599799 +0530	commit: filter
+48dfc6b86c50a44ec4384071f03362420aa092c8 04e01f6c5cec31f58eb65e9c6d673bca77ef5aec Thivyatharshni <thivyatharshnisozhan@gmail.com> 1769600224 +0530	commit: footer
+04e01f6c5cec31f58eb65e9c6d673bca77ef5aec a18f2861d4c95ee049dd8d79f02728a3fb42d17d Thivyatharshni <thivyatharshnisozhan@gmail.com> 1769616558 +0530	commit: login and signup changes
+a18f2861d4c95ee049dd8d79f02728a3fb42d17d 6c63c8cb24741dd4299c5492dcb5a8057fae39ed Thivyatharshni <thivyatharshnisozhan@gmail.com> 1769617144 +0530	commit: api change
+6c63c8cb24741dd4299c5492dcb5a8057fae39ed 1ac053a0cc08aa542aa1c634d6fb987702dddb0e Thivyatharshni <thivyatharshnisozhan@gmail.com> 1769617488 +0530	commit: api change
+1ac053a0cc08aa542aa1c634d6fb987702dddb0e e3dbe7d0d79acba180c6d36822081632f45a9b44 Thivyatharshni <thivyatharshnisozhan@gmail.com> 1769617832 +0530	commit: change in header and cart
+e3dbe7d0d79acba180c6d36822081632f45a9b44 76dca3c0f123a46eeb52955d0c754a042c0b4b4e Thivyatharshni <thivyatharshnisozhan@gmail.com> 1769618384 +0530	commit: changes in header and cart
+76dca3c0f123a46eeb52955d0c754a042c0b4b4e 4839ad5e8885bbd4359335b6414adf6d8ad88eab Thivyatharshni <thivyatharshnisozhan@gmail.com> 1769618951 +0530	commit: changes in login signup fooditemcart and app routes
+4839ad5e8885bbd4359335b6414adf6d8ad88eab 0c1c03071e6a04c73ac6c4226e6d4ef4b70f8646 Thivyatharshni <thivyatharshnisozhan@gmail.com> 1769619516 +0530	commit: changes in login signup fooditemcart and app routes
+0c1c03071e6a04c73ac6c4226e6d4ef4b70f8646 c9196782a752cdf6afdc451caeba078932042112 Thivyatharshni <thivyatharshnisozhan@gmail.com> 1769626469 +0530	commit: changes in login signup fooditemcart and app routes
+c9196782a752cdf6afdc451caeba078932042112 7192288ebc9b44e90ecd7f1f50318c42c5d82961 Thivyatharshni <thivyatharshnisozhan@gmail.com> 1769669423 +0530	commit: UI CHANGES
+7192288ebc9b44e90ecd7f1f50318c42c5d82961 dd4347c883881f85ac49ac52bedff061c11f7ba5 Thivyatharshni <thivyatharshnisozhan@gmail.com> 1769677688 +0530	commit: UI CHANGES
+dd4347c883881f85ac49ac52bedff061c11f7ba5 8e6341db94aa5013bfcfbc261215403f64ad8c03 Thivyatharshni <thivyatharshnisozhan@gmail.com> 1769688055 +0530	commit: UI CHANGES
+8e6341db94aa5013bfcfbc261215403f64ad8c03 6911b4f74bab5492c83b3acbe9734dbc801018f4 Thivyatharshni <thivyatharshnisozhan@gmail.com> 1770013196 +0530	commit: UI CHANGES
+6911b4f74bab5492c83b3acbe9734dbc801018f4 2f3aae7967815ccf59f3cbb6bf775597cce3988e Thivyatharshni <thivyatharshnisozhan@gmail.com> 1770014646 +0530	commit: UI CHANGES
+2f3aae7967815ccf59f3cbb6bf775597cce3988e 1b18ccad737ef271590995e388cd3c51529e5081 Thivyatharshni <thivyatharshnisozhan@gmail.com> 1770050550 +0530	commit: package download
+1b18ccad737ef271590995e388cd3c51529e5081 209ba013bb8161c81b06a66115f381ee58a6bca8 Thivyatharshni <thivyatharshnisozhan@gmail.com> 1770205138 +0530	commit: package download
+209ba013bb8161c81b06a66115f381ee58a6bca8 4332fb10d57669478093665290d7cb04cb5af342 Thivyatharshni <thivyatharshnisozhan@gmail.com> 1770290701 +0530	commit: ui changes
