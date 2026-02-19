@@ -1,33 +1,13 @@
 import axios from 'axios';
 
-const getBaseURL = () => {
-    // Try to detect the backend URL dynamically
-    const currentOrigin = window.location.origin;
-    
-    // If frontend is running on localhost:3000, backend is likely on localhost:5000
-    if (currentOrigin.includes('localhost:3000')) {
-        return 'http://localhost:5000/api';
-    }
-    
-    // If frontend is running on a different port, try to guess backend port
-    const port = window.location.port;
-    if (port === '3000') {
-        return 'http://localhost:5000/api';
-    } else if (port === '5173') {
-        return 'http://localhost:5000/api';
-    }
-    
-    // Default fallback
-    return 'http://localhost:5000/api';
-};
-
 const api = axios.create({
-    baseURL: getBaseURL(),
+    baseURL: import.meta.env.VITE_API_URL || 'https://zestify-backend-h49l.onrender.com/api',
     headers: {
         'Content-Type': 'application/json',
     },
-    timeout: 10000, // 10 second timeout
+    timeout: 10000,
 });
+
 
 // Attach JWT token to every request
 api.interceptors.request.use(
